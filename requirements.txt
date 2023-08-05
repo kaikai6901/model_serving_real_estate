@@ -1,0 +1,8 @@
+flask
+joblib
+scikit-learn
+mlflow
+pandas
+pymongo
+flask-cors
+boto3
